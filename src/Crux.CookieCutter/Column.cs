@@ -1,6 +1,6 @@
 using System;
 
-namespace Crux.CookieCutter
+namespace CookieCutter
 {
 	public enum ColumnType
 	{

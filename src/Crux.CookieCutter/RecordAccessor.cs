@@ -1,4 +1,4 @@
-namespace Crux.CookieCutter
+namespace CookieCutter
 {
     internal class RecordAccessor
     {

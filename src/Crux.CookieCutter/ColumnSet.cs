@@ -1,6 +1,6 @@
 using System.Collections.Generic;
 
-namespace Crux.CookieCutter
+namespace CookieCutter
 {
 	public class ColumnSet
 	{

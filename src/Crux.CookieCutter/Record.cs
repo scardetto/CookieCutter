@@ -2,7 +2,7 @@ using System;
 using System.IO;
 using System.Text;
 
-namespace Crux.CookieCutter
+namespace CookieCutter
 {
 	public class Record
 	{
