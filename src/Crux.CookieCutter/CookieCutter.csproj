@@ -7,8 +7,8 @@
     <ProjectGuid>{541C5116-0076-4BDE-9CE7-B42216775099}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>Crux.CookieCutter</RootNamespace>
-    <AssemblyName>Crux.CookieCutter</AssemblyName>
+    <RootNamespace>CookieCutter</RootNamespace>
+    <AssemblyName>CookieCutter</AssemblyName>
     <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
   </PropertyGroup>

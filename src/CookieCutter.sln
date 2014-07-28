@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2013
 VisualStudioVersion = 12.0.30110.0
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Crux.CookieCutter", "Crux.CookieCutter\Crux.CookieCutter.csproj", "{541C5116-0076-4BDE-9CE7-B42216775099}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CookieCutter", "Crux.CookieCutter\CookieCutter.csproj", "{541C5116-0076-4BDE-9CE7-B42216775099}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{7586139C-EC00-4B46-B4DB-EDDC4F876EC1}"
 	ProjectSection(SolutionItems) = preProject

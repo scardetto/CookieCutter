@@ -1,4 +1,4 @@
-Crux.CookieCutter
+CookieCutter
 =================
 
-A simple C# library for writing fixed length files.
+Quickly define and output fixed length files.
