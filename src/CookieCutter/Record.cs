@@ -56,7 +56,6 @@ namespace CookieCutter
 		{
 			var builder = new StringBuilder(_columnSet.RecordLength);
 
-
 			foreach (Column column in _columnSet.Columns) {
 				builder.Append(column.DefaultValue);
 			}
