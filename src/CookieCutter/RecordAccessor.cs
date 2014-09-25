@@ -23,13 +23,14 @@ namespace CookieCutter
 
         public void SetValue(int startPosition, string value)
         {
-            var newValue = value.ToCharArray();
-            BlockCopy(newValue, 0, _buffer, startPosition + 1, newValue.Length);
+            char[] newValue = value.ToCharArray();
+            BlockCopy(newValue, 0, _buffer, startPosition, newValue.Length);
         }
 
-        private static void BlockCopy(char[] source, int sourceOffset, char[] destination, int destinationOffset, int count)
+        private static void BlockCopy(char[] source, int sourceOffset, 
+            char[] destination, int destinationOffset, int count)
         {
-            for (var i = 0; i < count; i++) {
+            for (int i = 0; i < count; i++) {
                 destination[destinationOffset + i] = source[sourceOffset + i];
             }
         }
